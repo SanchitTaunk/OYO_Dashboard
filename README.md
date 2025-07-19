@@ -26,7 +26,7 @@ The dashboard was built using the following tools and technologies:<br>
 - **Rooms**: Describes the rooms available in each hotel.
 - **Date**: Standard date dimension for time-based analysis.
 
-<img src="Images/Data_model.jpeg" width="1000" alt="table">
+<img src="Images/Data_Model.jpeg" width="1000" alt="table">
 
 ## Understanding the metrics
 - **No Show Booking**: "No show" means those customers who neither cancelled nor attend to their booked rooms.
@@ -71,7 +71,7 @@ The dashboard was built using the following tools and technologies:<br>
 - Average cancellation rate is **24.83%**; average customer rating is **3.62**, indicating moderate satisfaction with scope for improvement.
 
 ## Dashboard
-
+<img src="Images/OYO_Dashboard.jpeg" width="1800" alt="table">
 
 
 
